@@ -1,0 +1,41 @@
+﻿N° commande;Date;Client;Commercial;Produit;Montant HT (€)
+C1201;2027-01-04;Agence Hublot;Commercial 1;Café en grains 1 kg;1388,64
+C1202;2027-01-05;Cabinet Lys;Commercial 2;Café en grains 1 kg;994,76
+C1203;2027-01-06;Atelier Corsaire;Commercial 1;Kit dégustation;2323,93
+C1204;2027-01-07;Studio Méridien;Commercial 2;Kit dégustation;1886,30
+C1205;2027-01-08;Clinique des Dunes;Commercial 1;Café en grains 1 kg;410,14
+C1206;2027-01-09;Lycée Jules Ferry (fictif);Commercial 2;Thé en vrac;481,57
+C1207;2027-01-10;Mairie de Port-Ruaud;Commercial 1;Café en grains 1 kg;2088,86
+C1208;2027-01-11;Transports Kerval;Commercial 2;Thé en vrac;941,50
+C1209;2027-01-12;Imprimerie Vauban;Commercial 1;Thé en vrac;1504,45
+C1210;2027-01-13;Groupe Alizé;Commercial 2;Kit dégustation;2183,81
+C1211;2027-01-14;Hôtel des Remparts;Commercial 1;Café en grains 1 kg;1474,11
+C1212;2027-01-15;Coopérative Brière;Commercial 2;Thé en vrac;1258,58
+C1213;2027-01-16;Agence Hublot;Commercial 1;Abonnement machine;1345,03
+C1214;2027-01-17;Cabinet Lys;Commercial 2;Thé en vrac;1569,59
+C1215;2027-01-18;Atelier Corsaire;Commercial 1;Kit dégustation;451,51
+C1216;2027-01-19;Studio Méridien;Commercial 2;Kit dégustation;556,54
+C1217;2027-01-20;Clinique des Dunes;Commercial 1;Kit dégustation;1710,67
+C1218;2027-01-21;Lycée Jules Ferry (fictif);Commercial 2;Thé en vrac;1800,72
+C1219;2027-01-22;Mairie de Port-Ruaud;Commercial 1;Kit dégustation;2181,66
+C1220;2027-01-23;Transports Kerval;Commercial 2;Café en grains 1 kg;999,98
+C1221;2027-01-24;Imprimerie Vauban;Commercial 1;Abonnement machine;280,90
+C1222;2027-01-25;Groupe Alizé;Commercial 2;Café en grains 1 kg;1838,60
+C1223;2027-01-04;Hôtel des Remparts;Commercial 1;Abonnement machine;2054,29
+C1224;2027-01-05;Coopérative Brière;Commercial 2;Café en grains 1 kg;1951,86
+C1225;2027-01-06;Agence Hublot;Commercial 1;Kit dégustation;2314,32
+C1226;2027-01-07;Cabinet Lys;Commercial 2;Kit dégustation;1340,70
+C1227;2027-01-08;Atelier Corsaire;Commercial 1;Kit dégustation;1726,55
+C1228;2027-01-09;Studio Méridien;Commercial 2;Abonnement machine;1285,34
+C1229;2027-01-10;Clinique des Dunes;Commercial 1;Café en grains 1 kg;215,19
+C1230;2027-01-11;Lycée Jules Ferry (fictif);Commercial 2;Kit dégustation;2221,62
+C1231;2027-01-12;Mairie de Port-Ruaud;Commercial 1;Thé en vrac;898,33
+C1232;2027-01-13;Transports Kerval;Commercial 2;Kit dégustation;1991,65
+C1233;2027-01-14;Imprimerie Vauban;Commercial 1;Kit dégustation;1858,71
+C1234;2027-01-15;Groupe Alizé;Commercial 2;Café en grains 1 kg;1268,40
+C1235;2027-01-16;Hôtel des Remparts;Commercial 1;Kit dégustation;482,56
+C1236;2027-01-17;Coopérative Brière;Commercial 2;Thé en vrac;1935,23
+C1237;2027-01-18;Agence Hublot;Commercial 1;Kit dégustation;2042,08
+C1238;2027-01-19;Cabinet Lys;Commercial 2;Thé en vrac;2121,47
+C1239;2027-01-20;Atelier Corsaire;Commercial 1;Café en grains 1 kg;877,95
+C1240;2027-01-21;Studio Méridien;Commercial 2;Kit dégustation;679,57
